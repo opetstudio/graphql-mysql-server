@@ -1,0 +1,28 @@
+{
+  "name": "graphql-with-sequelize-byopet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-preset-node5": "^12.0.1",
+    "eslint": "^4.18.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "faker": "^4.1.0",
+    "graphiql": "^0.11.11",
+    "graphql": "^0.13.1",
+    "lodash": "^4.17.5",
+    "mysql2": "^1.5.2",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "sequelize": "^4.33.4"
+  }
+}
